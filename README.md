@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">Cloud Security Engineer | DevOps Enthusiast | Builder of Things That Shouldn't Break in Production</h3>
+<h3 align="center">Aspiring DevOps Engineer | Cloud Security Enthusiast | Builder of Things That Shouldn't Break in Production</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA5E6&center=true&vCenter=true&width=600&lines=Securing+the+cloud%2C+one+read-only+call+at+a+time;IAM+least-privilege+evangelist;Building+NimbusAudit+%F0%9F%9B%A1%EF%B8%8F;Terraform+learner+%7C+Linux+tinkerer" alt="Typing SVG" />
