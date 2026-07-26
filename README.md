@@ -11,7 +11,7 @@
 
 I'm a Computer Science graduate who lives at the intersection of **cloud infrastructure**, **Linux systems**, **DevOps**, and **cybersecurity**. I like building practical tools that don't just look good in a demo — they solve real problems, safely.
 
-My flagship project, **[NimbusAudit](#)**, is a defensive AWS security auditing CLI that hunts down risky cloud configurations using nothing but **read-only permissions** — because you shouldn't need write access to prove something's misconfigured.
+My flagship project, **[NimbusAudit](https://github.com/aahmedbaj/NimbusAudit)**, is a defensive AWS security auditing CLI that hunts down risky cloud configurations using nothing but **read-only permissions** — because you shouldn't need write access to prove something's misconfigured.
 
 - 🔭 Currently expanding **NimbusAudit** with new AWS security checks
 - 🌱 Learning **Terraform** and Infrastructure as Code
